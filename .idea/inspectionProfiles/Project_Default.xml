@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="unit.send_email.send_user" />
+          <option value="unit.send_email.email_host" />
+          <option value="unit.send_email.password" />
+          <option value="unit.send_email.psssword" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
